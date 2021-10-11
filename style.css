@@ -1,0 +1,56 @@
+*{
+    
+    color: white;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+   
+   
+
+}
+.btn{
+    background-color: blue;
+    width: 54px;
+    margin-top: 15px;
+    height: 30px;
+    border-radius: 10px;
+
+
+}
+.btnh{
+    background-color: blue;
+    width: 54px;
+   
+    margin-top: 10px;
+    height: 30px;
+    border-radius: 10px;
+}
+.cleanscrbtn{
+    background-color: blue;
+    padding: 4px;
+    width: 230px;
+    margin-top: 20px;
+    border-radius: 10px;
+    
+}
+.DivMain{
+ margin-top: 10%;
+ background: rgb(90, 146, 160);
+ width: 230px;
+ height: 295px;
+ border-radius: 10px;
+ 
+}
+input{
+    width: 222px;
+    margin-top: 0.01cm;
+    padding-block: 8px;
+    height: 40px;
+    background: rgb(56, 55, 55);
+    
+}
+button:hover{
+    background-color: darkgreen;
+}
